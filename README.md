@@ -14,9 +14,9 @@ My first repository
 ---
 
 ### Memorable Features
-- **Genre**: Mystery, Science Fiction, Thriller
-- **Seasons Available**: 3 (and hoping for more!)
-- **Top Episode**: *The Time Between* (S3E5)
+- **Genre**: Mystery, Science Fiction, Thriller, horror
+- **Seasons Available**: 3 (soon 4)
+- **Top Episode:  (S2E10)
 
 ---
 
@@ -27,29 +27,29 @@ My first repository
 
 ### Quick Facts {#quick-facts}
 | Detail           | Information          |
-|------------------|-----------------------|
+|------------------|----------------------|
 | Created By       | John Griffin         |
-| Streaming On     | Popular Streaming Service |
+| Streaming On     | Netflix              |
 | First Aired      | May 2022             |
 
 ---
 
 ### Watch the Trailer
-[Watch the Official Trailer Here](https://www.example.com)
+[Watch the Official Trailer Here](https://www.youtube.com/watch?v=pDHqAj4eJcM&ab_channel=RottenTomatoesTV)
 
 ---
 
 ### Task List for Fans
-- [x] Watch all episodes of Season 3.
+- [x] Watch all episodes of Season 1-3.
 - [x] Recommend the show to friends.
 - [ ] Rewatch Seasons 1 and 2 for hidden clues.
 
 ---
 
 ### Bonus
-Here's some JSON data related to the show:
+Here's some data related to the show:
 
-```json
+```
 {
   "seriesTitle": "From",
   "creator": "John Griffin",
